@@ -52,7 +52,7 @@ body {
 .program__page {
   height: auto;
   width: 100%;
-  margin: 0% 8% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
+  margin: 0% 0% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
   display: flex;
   flex-direction: column;
   align-items: center;
