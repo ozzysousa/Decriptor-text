@@ -4,8 +4,8 @@
 - Desenvolvido um *Decodificador de Texto* onde inplementando regras e validações no código, manipulação do DOM, lógica de programação, escutador de eventos, flexbox layout, salvando e recuperando elementos no localStorage.
 
 ---
-### Status do Projeto:
-- 🚧   Finalizado com 100% das tasks concluídas. 🚀 🚧 
+### Site do Projeto:
+- 🚀  [Entre em contato!](https://decriptotext.netlify.app/)
 ---
 ### ⚙️ Features
 > Requisitos obrigatórios
