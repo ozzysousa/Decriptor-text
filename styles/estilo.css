@@ -160,8 +160,13 @@ body {
   height: 100px; /* Altura desejada */
   padding-bottom: 5px;
 }
-
-.program__rec__h1,
+.program__rec {
+  height: 200px; /* Altere o valor conforme necessário para ajustar a altura */
+  width: 400px;
+  margin-right: 2%;
+  padding: 1% 1%;
+  position: relative;
+}
 .program__rec__p {
   align-items: center;
   text-align: center;
