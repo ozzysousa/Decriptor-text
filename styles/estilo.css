@@ -147,6 +147,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center; /* Adicione esta linha para centralizar verticalmente */
   background-color: #ffffff;
   border-radius: 16px;
   width: 400px;
