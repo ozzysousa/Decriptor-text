@@ -62,7 +62,7 @@ body {
   font-size: 48px; /* Ajuste o tamanho do texto conforme necessário */
   font-family: 'Roboto', sans-serif; /* Substitua 'Roboto' pela fonte desejada */
   font-weight: 600;
-  margin-bottom: 20px; /* Adiciona espaço abaixo do título */
+  margin-bottom: 0px; /* Adiciona espaço abaixo do título */
 }
 
 .program__textArea {
