@@ -21,8 +21,6 @@
 
 .nav__img {
   margin-right: 10px; /* Adiciona um espaçamento à direita da imagem */
-  margin: 0% 0% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
-
 }
 
 .nav__title {
