@@ -41,11 +41,16 @@ body {
 .program__page {
   height: auto;
   width: 100%;
-  margin: 0% 8%;
+  margin: 5% 8%; /* Ajuste na margem para aumentar o espaço acima e abaixo */
   display: flex;
   flex-direction: column;
+  align-items: center; /* Centraliza o conteúdo na página */
 }
 
+.program__title {
+  font-size: 24px; /* Ajuste o tamanho do texto conforme necessário */
+  margin-bottom: 20px; /* Adiciona espaço abaixo do título */
+}
 .program__textArea {
   background-color: transparent;
   height: 100%;
