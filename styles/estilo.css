@@ -50,12 +50,12 @@ body {
 }
 
 .program__page {
-  height: auto;
+  height: 50vh; /* Altere o valor conforme necessário para ajustar a altura */
   width: 100%;
-  margin: 5% 8%; /* Ajuste na margem para aumentar o espaço acima e abaixo */
+  margin: 5% 8%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centraliza o conteúdo na página */
+  align-items: center;
 }
 
 .program__title {
