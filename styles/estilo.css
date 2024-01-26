@@ -29,9 +29,7 @@
 body {
   background-color: var(--secondary-color);
   font-family: var(--primary-font);
-  margin: 10;
-  height: 100vh; /* Define a altura do corpo para ocupar 100% da altura da viewport */
-  overflow: hidden; /* Impede a rolagem vertical */
+
 }
 html,
 body {
