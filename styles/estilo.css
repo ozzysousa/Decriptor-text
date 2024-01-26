@@ -156,8 +156,8 @@ body {
 }
 
 .program__img {
-  width: 150px; /* Largura desejada */
-  height: 150px; /* Altura desejada */
+  width: 100px; /* Largura desejada */
+  height: 100px; /* Altura desejada */
   padding-bottom: 5px;
 }
 
