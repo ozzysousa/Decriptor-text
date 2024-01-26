@@ -30,6 +30,8 @@ body {
   background-color: var(--secondary-color);
   font-family: var(--primary-font);
   margin: 0;
+  height: 100vh; /* Define a altura do corpo para ocupar 100% da altura da viewport */
+  overflow: hidden; /* Impede a rolagem vertical */
 }
 html,
 body {
@@ -52,7 +54,7 @@ body {
 .program__page {
   height: auto;
   width: 100%;
-  margin: 0% 8% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
+  margin: 5% 8% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
   display: flex;
   flex-direction: column;
   align-items: center;
