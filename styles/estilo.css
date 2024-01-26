@@ -62,6 +62,7 @@ body {
   font-size: 48px; /* Ajuste o tamanho do texto conforme necessário */
   font-family: 'Roboto', sans-serif; /* Substitua 'Roboto' pela fonte desejada */
   font-weight: 600;
+  color: rgb(20, 192, 14); /* Adiciona cor verde ao texto */
   margin-bottom: 0px; /* Adiciona espaço abaixo do título */
 }
 
