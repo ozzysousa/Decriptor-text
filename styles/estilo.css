@@ -1,4 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #0a3871;
+  --secondary-color: #f3f5fc;
+  --third-color: #495057;
+
+  --primary-font: "Inter", sans-serif;
+}
+
 /* Adicione esta regra ao seu arquivo CSS (estilo.css) */
 .nav {
   display: flex;
@@ -12,21 +26,6 @@
 .nav__title {
   font-size: 48px; /* Ajuste o tamanho do texto conforme necessário */
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-
-}
-
-:root {
-  --primary-color: #0a3871;
-  --secondary-color: #f3f5fc;
-  --third-color: #495057;
-
-  --primary-font: "Inter", sans-serif;
-}
-
 body {
   background-color: var(--secondary-color);
   font-family: var(--primary-font);
@@ -61,8 +60,11 @@ body {
 
 .program__title {
   font-size: 24px; /* Ajuste o tamanho do texto conforme necessário */
+  font-family: 'Roboto', sans-serif; /* Substitua 'Roboto' pela fonte desejada */
+  font-weight: 600;
   margin-bottom: 20px; /* Adiciona espaço abaixo do título */
 }
+
 .program__textArea {
   background-color: transparent;
   height: 100%;
