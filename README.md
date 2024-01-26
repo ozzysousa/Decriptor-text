@@ -7,7 +7,7 @@
 
 ---
 ### Site do Projeto:
-- 🚀  [Entre em contato!](https://decriptotext.netlify.app/)
+- 🚀  [Veja como ficou legal!](https://decriptotext.netlify.app/)
 ---
 ### ⚙️ Features
 > Requisitos obrigatórios
