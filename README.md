@@ -31,7 +31,7 @@
 - Trello
 ---
 ### 👷‍♂‍ Autor
-Feito com ❤️ por Daniel Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-pinheiro-machado/)
+Feito com ❤️ por Oziel Sousa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/ozzysousa/)
 
 ---
 ### 📝Licença
