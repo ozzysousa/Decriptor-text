@@ -50,7 +50,7 @@ body {
 }
 
 .program__page {
-  height: 0;
+  height: 50%;
   width: 100%;
   margin: 2% 5% 0; /* Ajuste o valor superior (top) conforme necessário para mover para cima */
   display: flex;
