@@ -1,34 +1,56 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decodificador de texto</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>EncryptorT6</title>
+    <link rel="stylesheet" href="styles/estilo.css">
 </head>
-<body>
-    <header>
-        <img class="logo__alura" src="assets/images/logo-alura.svg" alt="logomarca da alura">
-    </header>
-    <main>
-        <section class="section__input">
-                <textarea class="textarea__input" name="text_input" id="area-text" cols="30" rows="10" placeholder="Digite seu texto"></textarea>
-                <div class="warning__text">
-                    <img src="assets/images/icon-attention.svg" alt="icone de atenção">
-                    <span>Apenas letras minúsculas e sem acento.</span>   
-                </div>
-                <div class="input__buttons">
-                    <button id="encrypt-button" class="btn__cript blue">Criptografar</button>
-                    <button id="decrypt-button" class="btn__cript">Descriptografrar</button>
-                </div>
-        </section>
 
-        <section class="section__right" id="section-output">
-            <img class="img__people" src="assets/images/img-people.svg" alt="imagem de uma pessoa">
-            <h2 class="right__text-warning">Nenhuma mensagem encontrada</h2>
-            <p class="right__text-smaller">Digite um texto que você deseja criptografar ou descriptografar.</p>
+<body>
+    <header class="nav">
+        <img src="assets/Logo.svg" class="nav__img">
+    </header>
+    <main class="program">
+        <section class="program__page">
+            <textarea cols="50" rows="10" wrap="hard" placeholder="Digite seu texto"
+                class="program__textArea"></textarea>
+                <p class="error-message"></p>
+            <p class="program__p"><img src="assets/alert-icon.png" class="program__alert-icon">Apenas letras minúsculas
+                e sem acento</p>
+            <div class="program__buttons">
+                <button class="buttons__button1" onclick="crip()">Criptografar</button>
+                <button class="buttons__button2" onclick="descrip()">Descriptografar</button>
+            </div>
+
         </section>
+        <div class="program__rec"><img src="assets/nomessage.svg" class="program__img">
+            <h1 class="program__rec__h1">Nenhuma mensagem encontrada</h1>
+            <p class="program__rec__p">Digite um texto que você deseja criptografar ou descriptografar</p>
+            <p class="program__rec__pHidden" hidden>HelloFriend</p>
+            <button class="program__rec__btn" hidden id="copy-btn" onclick="copyText()">Copiar</button>
+        </div>
     </main>
-    <script src="js/script.js"></script>        
+    <footer class="end">
+        <h1 class="end__text">Desenvolvido por Oziel Sousa - Projeto ONE T6</h1>
+        <div class="end__links">
+            <a class="end__links__link" href="https://www.linkedin.com/in/ozzysousa/"
+                target="_blank">
+                <img src="assets/linkedin-icon2.png">Meu LinkedIn
+            </a>
+
+            <a class="end__links__link" href="https://github.com/ozzysousa" target="_blank">
+                <img src="assets/git-icon.png">Meu Github
+            </a>
+
+            <a class="end__links__link" href="https://www.instagram.com/sousabelcher/" target="_blank">
+                <img src="assets/icon-insta2.png">Meu Instagram
+            </a>
+        </div>
+    </footer>
+
+    <script src="scripts/script.js"></script>
 </body>
+
 </html>
