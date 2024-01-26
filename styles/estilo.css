@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+/* Adicione esta regra ao seu arquivo CSS (estilo.css) */
+.nav {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente os itens na nav */
+}
 
+.nav__img {
+  margin-right: 10px; /* Adiciona um espaçamento à direita da imagem */
+}
+
+.nav__title {
+  font-size: 48px; /* Ajuste o tamanho do texto conforme necessário */
+}
 * {
   margin: 0;
   padding: 0;
