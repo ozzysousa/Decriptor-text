@@ -3,7 +3,7 @@
 # Decodificator de Texto
 ### Descrição do projeto
 - Projeto desenvolvido referente a trilha de *Programador Iniciante* do programa da **ONE - Oracle Next Education**. 
-- Desenvolvido um *Decodificador de Texto* onde inplementando regras e validações no código, manipulação do DOM, lógica de programação, escutador de eventos, flexbox layout, salvando e recuperando elementos no localStorage.
+- Desenvolvido um *Decodificador de Texto* onde inplementando regras e validações no código, manipulação do DOM, lógica de programação, escutador de eventos, flexbox layout, salvando e recuperando elementos no localStorage. 
 
 ---
 ### Site do Projeto:
