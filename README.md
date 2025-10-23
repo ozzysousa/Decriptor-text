@@ -33,7 +33,7 @@
 - Trello
 ---
 ### 👷‍♂‍ Autor
-Feito com ❤️ por Oziel Sousa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/ozzysousa/)
+Feito com ❤️ por Oziel Sousa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/sousabelcher/)
 
 ---
 ### 📝Licença
